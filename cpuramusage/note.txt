@@ -1,0 +1,4 @@
+[require]
+sudo yum install python3
+sudo yum install gcc python3-devel
+sudo pip3 install psutil
